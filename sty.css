@@ -23,4 +23,5 @@ canvas{
     text-align: center;
     bottom:0 ;
     font-size: 35px;
+    position: fixed;
 }
